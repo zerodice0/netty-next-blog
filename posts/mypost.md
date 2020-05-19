@@ -1,5 +1,5 @@
 ---
-title: 'Hello, world!'
+title: 'Test'
 author: 'Cassidy'
 ---
 
